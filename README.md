@@ -1,4 +1,4 @@
-# Doctorate Analysis Two
+# Analyses of depression and posttraumatic stress symptoms related to COVID-19
 
 Code used in Machado et al. (2022): https://doi.org/10.1177/13591053221120968.
 
